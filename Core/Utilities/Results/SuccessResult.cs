@@ -19,9 +19,7 @@ namespace Core.Utilities.Results
 
         }
 
-        public SuccessResult(object colorUpdated)
-        {
-            this.colorUpdated = colorUpdated;
-        }
+     
+        
     }
 }
